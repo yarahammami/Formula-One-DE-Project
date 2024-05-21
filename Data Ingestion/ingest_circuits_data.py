@@ -53,7 +53,7 @@ if response.status_code == 200:
             print(f"Failed to fetch the file {name}. Status code: {file_response.status_code}")
     
     # Create the CSV file
-    with open('circuits_data.csv', mode='w', newline='') as csv_file:
+    with open('RAW\circuits_data.csv', mode='w', newline='') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=list(all_headers))
         
         # Write the headers
