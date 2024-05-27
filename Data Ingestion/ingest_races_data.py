@@ -56,7 +56,7 @@ def get_oracle_connection(username, password, dsn):
 # Connection details
 username = 'sys'
 password = 'database'
-dsn = 'localhost:1530/orcl' 
+dsn = 'localhost:1530/orcl.lan' 
 
 connection = get_oracle_connection(username, password, dsn)
 
