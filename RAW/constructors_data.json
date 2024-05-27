@@ -1,0 +1,2184 @@
+[
+    {
+        "id": "adams",
+        "name": "Adams",
+        "fullName": "Adams",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "afm",
+        "name": "AFM",
+        "fullName": "Alex von Falkenhausen Motorenbau",
+        "countryId": "germany"
+    },
+    {
+        "id": "ags",
+        "name": "AGS",
+        "fullName": "Automobiles Gonfaronnaises Sportives",
+        "countryId": "france"
+    },
+    {
+        "id": "alfa-romeo",
+        "name": "Alfa Romeo",
+        "fullName": "Alfa Romeo Racing",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "sauber",
+                "yearFrom": 1993,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "bmw-sauber",
+                "yearFrom": 2006,
+                "yearTo": 2010
+            },
+            {
+                "constructorId": "sauber",
+                "yearFrom": 2011,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "alfa-romeo",
+                "yearFrom": 2019,
+                "yearTo": 2023
+            },
+            {
+                "constructorId": "kick-sauber",
+                "yearFrom": 2024,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "alfa-special",
+        "name": "Alfa Special",
+        "fullName": "Alfa Special",
+        "countryId": "south-africa"
+    },
+    {
+        "id": "alphatauri",
+        "name": "AlphaTauri",
+        "fullName": "Scuderia AlphaTauri",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "minardi",
+                "yearFrom": 1985,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "toro-rosso",
+                "yearFrom": 2006,
+                "yearTo": 2019
+            },
+            {
+                "constructorId": "alphatauri",
+                "yearFrom": 2020,
+                "yearTo": 2023
+            },
+            {
+                "constructorId": "rb",
+                "yearFrom": 2024,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "alpine",
+        "name": "Alpine",
+        "fullName": "Alpine F1 Team",
+        "countryId": "france",
+        "previousNextConstructors": [
+            {
+                "constructorId": "toleman",
+                "yearFrom": 1981,
+                "yearTo": 1985
+            },
+            {
+                "constructorId": "benetton",
+                "yearFrom": 1986,
+                "yearTo": 2001
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2002,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "lotus-f1",
+                "yearFrom": 2012,
+                "yearTo": 2015
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2016,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "alpine",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "alta",
+        "name": "Alta",
+        "fullName": "Alta Car and Engineering Company",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "amon",
+        "name": "Amon",
+        "fullName": "Chris Amon Racing",
+        "countryId": "new-zealand"
+    },
+    {
+        "id": "andrea-moda",
+        "name": "Andrea Moda",
+        "fullName": "Andrea Moda Formula",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "coloni",
+                "yearFrom": 1987,
+                "yearTo": 1991
+            },
+            {
+                "constructorId": "andrea-moda",
+                "yearFrom": 1992,
+                "yearTo": 1992
+            }
+        ]
+    },
+    {
+        "id": "apollon",
+        "name": "Apollon",
+        "fullName": "Apollon",
+        "countryId": "switzerland"
+    },
+    {
+        "id": "arrows",
+        "name": "Arrows",
+        "fullName": "Arrows Grand Prix International",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "arrows",
+                "yearFrom": 1978,
+                "yearTo": 1990
+            },
+            {
+                "constructorId": "footwork",
+                "yearFrom": 1991,
+                "yearTo": 1996
+            },
+            {
+                "constructorId": "arrows",
+                "yearFrom": 1997,
+                "yearTo": 2002
+            }
+        ]
+    },
+    {
+        "id": "arzani-volpini",
+        "name": "Arzani-Volpini",
+        "fullName": "Scuderia Arzani-Volpini",
+        "countryId": "italy"
+    },
+    {
+        "id": "aston-butterworth",
+        "name": "Aston Butterworth",
+        "fullName": "Aston Butterworth",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "aston-martin",
+        "name": "Aston Martin",
+        "fullName": "Aston Martin",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "jordan",
+                "yearFrom": 1991,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "midland",
+                "yearFrom": 2006,
+                "yearTo": 2006
+            },
+            {
+                "constructorId": "spyker",
+                "yearFrom": 2007,
+                "yearTo": 2007
+            },
+            {
+                "constructorId": "force-india",
+                "yearFrom": 2008,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "racing-point",
+                "yearFrom": 2019,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "aston-martin",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "ats-wheels",
+        "name": "ATS",
+        "fullName": "ATS Wheels",
+        "countryId": "germany"
+    },
+    {
+        "id": "ats",
+        "name": "ATS",
+        "fullName": "Automobili Turismo e Sport",
+        "countryId": "italy"
+    },
+    {
+        "id": "balsa",
+        "name": "Balsa",
+        "fullName": "Balsa",
+        "countryId": "germany"
+    },
+    {
+        "id": "bar",
+        "name": "BAR",
+        "fullName": "British American Racing",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "tyrrell",
+                "yearFrom": 1970,
+                "yearTo": 1998
+            },
+            {
+                "constructorId": "bar",
+                "yearFrom": 1999,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "honda",
+                "yearFrom": 2006,
+                "yearTo": 2008
+            },
+            {
+                "constructorId": "brawn",
+                "yearFrom": 2009,
+                "yearTo": 2009
+            },
+            {
+                "constructorId": "mercedes",
+                "yearFrom": 2010,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "behra-porsche",
+        "name": "Behra-Porsche",
+        "fullName": "Behra-Porsche",
+        "countryId": "germany"
+    },
+    {
+        "id": "bellasi",
+        "name": "Bellasi",
+        "fullName": "Bellasi",
+        "countryId": "italy"
+    },
+    {
+        "id": "benetton",
+        "name": "Benetton",
+        "fullName": "Benetton Formula",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "toleman",
+                "yearFrom": 1981,
+                "yearTo": 1985
+            },
+            {
+                "constructorId": "benetton",
+                "yearFrom": 1986,
+                "yearTo": 2001
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2002,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "lotus-f1",
+                "yearFrom": 2012,
+                "yearTo": 2015
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2016,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "alpine",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "bmw-sauber",
+        "name": "BMW Sauber",
+        "fullName": "BMW Sauber F1 Team",
+        "countryId": "germany",
+        "previousNextConstructors": [
+            {
+                "constructorId": "sauber",
+                "yearFrom": 1993,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "bmw-sauber",
+                "yearFrom": 2006,
+                "yearTo": 2010
+            },
+            {
+                "constructorId": "sauber",
+                "yearFrom": 2011,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "alfa-romeo",
+                "yearFrom": 2019,
+                "yearTo": 2023
+            },
+            {
+                "constructorId": "kick-sauber",
+                "yearFrom": 2024,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "bmw",
+        "name": "BMW",
+        "fullName": "BMW",
+        "countryId": "germany"
+    },
+    {
+        "id": "boro",
+        "name": "Boro",
+        "fullName": "Boro",
+        "countryId": "netherlands"
+    },
+    {
+        "id": "brabham",
+        "name": "Brabham",
+        "fullName": "Motor Racing Developments",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "brawn",
+        "name": "Brawn",
+        "fullName": "Brawn GP Formula One Team",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "tyrrell",
+                "yearFrom": 1970,
+                "yearTo": 1998
+            },
+            {
+                "constructorId": "bar",
+                "yearFrom": 1999,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "honda",
+                "yearFrom": 2006,
+                "yearTo": 2008
+            },
+            {
+                "constructorId": "brawn",
+                "yearFrom": 2009,
+                "yearTo": 2009
+            },
+            {
+                "constructorId": "mercedes",
+                "yearFrom": 2010,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "brm",
+        "name": "BRM",
+        "fullName": "British Racing Motors",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "bromme",
+        "name": "Bromme",
+        "fullName": "Bromme",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "brp",
+        "name": "BRP",
+        "fullName": "British Racing Partnership",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "bugatti",
+        "name": "Bugatti",
+        "fullName": "Bugatti",
+        "countryId": "france"
+    },
+    {
+        "id": "caterham",
+        "name": "Caterham",
+        "fullName": "Caterham F1 Team",
+        "countryId": "malaysia",
+        "previousNextConstructors": [
+            {
+                "constructorId": "lotus-racing",
+                "yearFrom": 2010,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "caterham",
+                "yearFrom": 2012,
+                "yearTo": 2014
+            }
+        ]
+    },
+    {
+        "id": "christensen",
+        "name": "Christensen",
+        "fullName": "Christensen",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "cisitalia",
+        "name": "Cisitalia",
+        "fullName": "Cisitalia",
+        "countryId": "italy"
+    },
+    {
+        "id": "coloni",
+        "name": "Coloni",
+        "fullName": "Scuderia Coloni",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "coloni",
+                "yearFrom": 1987,
+                "yearTo": 1991
+            },
+            {
+                "constructorId": "andrea-moda",
+                "yearFrom": 1992,
+                "yearTo": 1992
+            }
+        ]
+    },
+    {
+        "id": "connaught",
+        "name": "Connaught",
+        "fullName": "Connaught Engineering",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "connew",
+        "name": "Connew",
+        "fullName": "Connew Racing Team",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "cooper",
+        "name": "Cooper",
+        "fullName": "Cooper Car Company",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "dallara",
+        "name": "Dallara",
+        "fullName": "Dallara Automobili",
+        "countryId": "italy"
+    },
+    {
+        "id": "de-tomaso",
+        "name": "De Tomaso",
+        "fullName": "De Tomaso Modena",
+        "countryId": "italy"
+    },
+    {
+        "id": "deidt",
+        "name": "Deidt",
+        "fullName": "Deidt",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "del-roy",
+        "name": "Del Roy",
+        "fullName": "Del Roy",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "derrington-francis",
+        "name": "Derrington-Francis",
+        "fullName": "Derrington-Francis Racing Team",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "dunn",
+        "name": "Dunn",
+        "fullName": "Dunn",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "eagle",
+        "name": "Eagle",
+        "fullName": "All American Racers",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "eifelland",
+        "name": "Eifelland",
+        "fullName": "Team Eifelland Caravans",
+        "countryId": "germany"
+    },
+    {
+        "id": "elder",
+        "name": "Elder",
+        "fullName": "Elder",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "emeryson",
+        "name": "Emeryson",
+        "fullName": "Emeryson Cars",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "emw",
+        "name": "EMW",
+        "fullName": "Eisenacher Motorenwerk",
+        "countryId": "germany"
+    },
+    {
+        "id": "enb",
+        "name": "ENB",
+        "fullName": "Ecurie National Belge",
+        "countryId": "belgium"
+    },
+    {
+        "id": "ensign",
+        "name": "Ensign",
+        "fullName": "Ensign Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "epperly",
+        "name": "Epperly",
+        "fullName": "Epperly",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "era",
+        "name": "ERA",
+        "fullName": "English Racing Automobiles",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "eurobrun",
+        "name": "EuroBrun",
+        "fullName": "EuroBrun Racing",
+        "countryId": "italy"
+    },
+    {
+        "id": "ewing",
+        "name": "Ewing",
+        "fullName": "Ewing",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "ferguson",
+        "name": "Ferguson",
+        "fullName": "Harry Ferguson Research",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "ferrari",
+        "name": "Ferrari",
+        "fullName": "Scuderia Ferrari",
+        "countryId": "italy"
+    },
+    {
+        "id": "first",
+        "name": "FIRST",
+        "fullName": "FIRST Racing",
+        "countryId": "italy"
+    },
+    {
+        "id": "fittipaldi",
+        "name": "Fittipaldi",
+        "fullName": "Fittipaldi Automotive",
+        "countryId": "brazil"
+    },
+    {
+        "id": "fondmetal",
+        "name": "Fondmetal",
+        "fullName": "Fondmetal",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "osella",
+                "yearFrom": 1980,
+                "yearTo": 1990
+            },
+            {
+                "constructorId": "fondmetal",
+                "yearFrom": 1991,
+                "yearTo": 1992
+            }
+        ]
+    },
+    {
+        "id": "footwork",
+        "name": "Footwork",
+        "fullName": "Footwork Arrows",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "arrows",
+                "yearFrom": 1978,
+                "yearTo": 1990
+            },
+            {
+                "constructorId": "footwork",
+                "yearFrom": 1991,
+                "yearTo": 1996
+            },
+            {
+                "constructorId": "arrows",
+                "yearFrom": 1997,
+                "yearTo": 2002
+            }
+        ]
+    },
+    {
+        "id": "force-india",
+        "name": "Force India",
+        "fullName": "Force India F1 Team",
+        "countryId": "india",
+        "previousNextConstructors": [
+            {
+                "constructorId": "jordan",
+                "yearFrom": 1991,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "midland",
+                "yearFrom": 2006,
+                "yearTo": 2006
+            },
+            {
+                "constructorId": "spyker",
+                "yearFrom": 2007,
+                "yearTo": 2007
+            },
+            {
+                "constructorId": "force-india",
+                "yearFrom": 2008,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "racing-point",
+                "yearFrom": 2019,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "aston-martin",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "forti",
+        "name": "Forti",
+        "fullName": "Forti Corse",
+        "countryId": "italy"
+    },
+    {
+        "id": "frank-williams-racing-cars",
+        "name": "Frank Williams Racing Cars",
+        "fullName": "Frank Williams Racing Cars",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "politoys",
+                "yearFrom": 1972,
+                "yearTo": 1972
+            },
+            {
+                "constructorId": "iso-marlboro",
+                "yearFrom": 1973,
+                "yearTo": 1974
+            },
+            {
+                "constructorId": "frank-williams-racing-cars",
+                "yearFrom": 1975,
+                "yearTo": 1975
+            },
+            {
+                "constructorId": "wolf-williams",
+                "yearFrom": 1976,
+                "yearTo": 1976
+            },
+            {
+                "constructorId": "wolf",
+                "yearFrom": 1977,
+                "yearTo": 1979
+            }
+        ]
+    },
+    {
+        "id": "frazer-nash",
+        "name": "Frazer-Nash",
+        "fullName": "Frazer-Nash",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "fry",
+        "name": "Fry",
+        "fullName": "Fry Racing Team",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "gilby",
+        "name": "Gilby",
+        "fullName": "Gilby Engineering",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "gordini",
+        "name": "Gordini",
+        "fullName": "Gordini",
+        "countryId": "france"
+    },
+    {
+        "id": "greifzu",
+        "name": "Greifzu",
+        "fullName": "Greifzu",
+        "countryId": "germany"
+    },
+    {
+        "id": "haas",
+        "name": "Haas",
+        "fullName": "Haas F1 Team",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "hall",
+        "name": "Hall",
+        "fullName": "Hall",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "heck",
+        "name": "Heck",
+        "fullName": "Heck",
+        "countryId": "germany"
+    },
+    {
+        "id": "hesketh",
+        "name": "Hesketh",
+        "fullName": "Hesketh Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "hill",
+        "name": "Hill",
+        "fullName": "Embassy Racing With Graham Hill",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "honda",
+        "name": "Honda",
+        "fullName": "Honda Racing F1 Team",
+        "countryId": "japan",
+        "previousNextConstructors": [
+            {
+                "constructorId": "tyrrell",
+                "yearFrom": 1970,
+                "yearTo": 1998
+            },
+            {
+                "constructorId": "bar",
+                "yearFrom": 1999,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "honda",
+                "yearFrom": 2006,
+                "yearTo": 2008
+            },
+            {
+                "constructorId": "brawn",
+                "yearFrom": 2009,
+                "yearTo": 2009
+            },
+            {
+                "constructorId": "mercedes",
+                "yearFrom": 2010,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "hrt",
+        "name": "HRT",
+        "fullName": "Hispania Racing Team",
+        "countryId": "spain"
+    },
+    {
+        "id": "hwm",
+        "name": "HWM",
+        "fullName": "Hersham and Walton Motors",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "iso-marlboro",
+        "name": "Iso-Marlboro",
+        "fullName": "Iso-Marlboro",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "politoys",
+                "yearFrom": 1972,
+                "yearTo": 1972
+            },
+            {
+                "constructorId": "iso-marlboro",
+                "yearFrom": 1973,
+                "yearTo": 1974
+            },
+            {
+                "constructorId": "frank-williams-racing-cars",
+                "yearFrom": 1975,
+                "yearTo": 1975
+            },
+            {
+                "constructorId": "wolf-williams",
+                "yearFrom": 1976,
+                "yearTo": 1976
+            },
+            {
+                "constructorId": "wolf",
+                "yearFrom": 1977,
+                "yearTo": 1979
+            }
+        ]
+    },
+    {
+        "id": "jaguar",
+        "name": "Jaguar",
+        "fullName": "Jaguar Racing F1 Team",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "stewart",
+                "yearFrom": 1997,
+                "yearTo": 1999
+            },
+            {
+                "constructorId": "jaguar",
+                "yearFrom": 2000,
+                "yearTo": 2004
+            },
+            {
+                "constructorId": "red-bull",
+                "yearFrom": 2005,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "jbw",
+        "name": "JBW",
+        "fullName": "JBW Cars",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "jordan",
+        "name": "Jordan",
+        "fullName": "Jordan Grand Prix",
+        "countryId": "ireland",
+        "previousNextConstructors": [
+            {
+                "constructorId": "jordan",
+                "yearFrom": 1991,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "midland",
+                "yearFrom": 2006,
+                "yearTo": 2006
+            },
+            {
+                "constructorId": "spyker",
+                "yearFrom": 2007,
+                "yearTo": 2007
+            },
+            {
+                "constructorId": "force-india",
+                "yearFrom": 2008,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "racing-point",
+                "yearFrom": 2019,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "aston-martin",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "kauhsen",
+        "name": "Kauhsen",
+        "fullName": "Kauhsen",
+        "countryId": "germany"
+    },
+    {
+        "id": "kick-sauber",
+        "name": "Kick Sauber",
+        "fullName": "Kick Sauber F1 Team",
+        "countryId": "germany",
+        "previousNextConstructors": [
+            {
+                "constructorId": "sauber",
+                "yearFrom": 1993,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "bmw-sauber",
+                "yearFrom": 2006,
+                "yearTo": 2010
+            },
+            {
+                "constructorId": "sauber",
+                "yearFrom": 2011,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "alfa-romeo",
+                "yearFrom": 2019,
+                "yearTo": 2023
+            },
+            {
+                "constructorId": "kick-sauber",
+                "yearFrom": 2024,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "klenk",
+        "name": "Klenk",
+        "fullName": "Klenk",
+        "countryId": "germany"
+    },
+    {
+        "id": "kojima",
+        "name": "Kojima",
+        "fullName": "Kojima Engineering",
+        "countryId": "japan"
+    },
+    {
+        "id": "krakau",
+        "name": "Krakau",
+        "fullName": "Krakau",
+        "countryId": "germany"
+    },
+    {
+        "id": "kurtis",
+        "name": "Kurtis",
+        "fullName": "Kurtis",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "kuzma",
+        "name": "Kuzma",
+        "fullName": "Kuzma",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "lancia",
+        "name": "Lancia",
+        "fullName": "Lancia",
+        "countryId": "italy"
+    },
+    {
+        "id": "langley",
+        "name": "Langley",
+        "fullName": "Langley",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "larrousse",
+        "name": "Larrousse",
+        "fullName": "Larrousse F1",
+        "countryId": "france"
+    },
+    {
+        "id": "lds",
+        "name": "LDS",
+        "fullName": "LDS",
+        "countryId": "south-africa"
+    },
+    {
+        "id": "lec",
+        "name": "LEC",
+        "fullName": "LEC Refrigeration Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "lesovsky",
+        "name": "Lesovsky",
+        "fullName": "Lesovsky",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "leyton-house",
+        "name": "Leyton House",
+        "fullName": "Leyton House Racing",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "march",
+                "yearFrom": 1970,
+                "yearTo": 1989
+            },
+            {
+                "constructorId": "leyton-house",
+                "yearFrom": 1990,
+                "yearTo": 1991
+            },
+            {
+                "constructorId": "march",
+                "yearFrom": 1992,
+                "yearTo": 1992
+            }
+        ]
+    },
+    {
+        "id": "life",
+        "name": "Life",
+        "fullName": "Life Racing Engines",
+        "countryId": "italy"
+    },
+    {
+        "id": "ligier",
+        "name": "Ligier",
+        "fullName": "Equipe Ligier",
+        "countryId": "france",
+        "previousNextConstructors": [
+            {
+                "constructorId": "ligier",
+                "yearFrom": 1976,
+                "yearTo": 1996
+            },
+            {
+                "constructorId": "prost",
+                "yearFrom": 1997,
+                "yearTo": 2001
+            }
+        ]
+    },
+    {
+        "id": "lola",
+        "name": "Lola",
+        "fullName": "Lola Cars",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "lotus-f1",
+        "name": "Lotus",
+        "fullName": "Lotus F1 Team",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "toleman",
+                "yearFrom": 1981,
+                "yearTo": 1985
+            },
+            {
+                "constructorId": "benetton",
+                "yearFrom": 1986,
+                "yearTo": 2001
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2002,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "lotus-f1",
+                "yearFrom": 2012,
+                "yearTo": 2015
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2016,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "alpine",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "lotus-racing",
+        "name": "Lotus Racing",
+        "fullName": "Lotus Racing",
+        "countryId": "malaysia",
+        "previousNextConstructors": [
+            {
+                "constructorId": "lotus-racing",
+                "yearFrom": 2010,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "caterham",
+                "yearFrom": 2012,
+                "yearTo": 2014
+            }
+        ]
+    },
+    {
+        "id": "lotus",
+        "name": "Lotus",
+        "fullName": "Team Lotus",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "lyncar",
+        "name": "Lyncar",
+        "fullName": "Lyncar",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "maki",
+        "name": "Maki",
+        "fullName": "Maki Engineering",
+        "countryId": "japan"
+    },
+    {
+        "id": "manor",
+        "name": "Manor",
+        "fullName": "Manor Racing",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "virgin",
+                "yearFrom": 2010,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "marussia",
+                "yearFrom": 2012,
+                "yearTo": 2015
+            },
+            {
+                "constructorId": "manor",
+                "yearFrom": 2016,
+                "yearTo": 2016
+            }
+        ]
+    },
+    {
+        "id": "march",
+        "name": "March",
+        "fullName": "March Engineering",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "march",
+                "yearFrom": 1970,
+                "yearTo": 1989
+            },
+            {
+                "constructorId": "leyton-house",
+                "yearFrom": 1990,
+                "yearTo": 1991
+            },
+            {
+                "constructorId": "march",
+                "yearFrom": 1992,
+                "yearTo": 1992
+            }
+        ]
+    },
+    {
+        "id": "marchese",
+        "name": "Marchese",
+        "fullName": "Marchese",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "martini",
+        "name": "Martini",
+        "fullName": "Automobiles Martini",
+        "countryId": "france"
+    },
+    {
+        "id": "marussia",
+        "name": "Marussia",
+        "fullName": "Marussia F1 Team",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "virgin",
+                "yearFrom": 2010,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "marussia",
+                "yearFrom": 2012,
+                "yearTo": 2015
+            },
+            {
+                "constructorId": "manor",
+                "yearFrom": 2016,
+                "yearTo": 2016
+            }
+        ]
+    },
+    {
+        "id": "maserati",
+        "name": "Maserati",
+        "fullName": "Maserati",
+        "countryId": "italy"
+    },
+    {
+        "id": "matra",
+        "name": "Matra",
+        "fullName": "Equipe Matra Sports",
+        "countryId": "france"
+    },
+    {
+        "id": "mcguire",
+        "name": "McGuire",
+        "fullName": "McGuire",
+        "countryId": "australia"
+    },
+    {
+        "id": "mclaren",
+        "name": "McLaren",
+        "fullName": "McLaren Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "mercedes",
+        "name": "Mercedes",
+        "fullName": "Mercedes AMG F1",
+        "countryId": "germany",
+        "previousNextConstructors": [
+            {
+                "constructorId": "tyrrell",
+                "yearFrom": 1970,
+                "yearTo": 1998
+            },
+            {
+                "constructorId": "bar",
+                "yearFrom": 1999,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "honda",
+                "yearFrom": 2006,
+                "yearTo": 2008
+            },
+            {
+                "constructorId": "brawn",
+                "yearFrom": 2009,
+                "yearTo": 2009
+            },
+            {
+                "constructorId": "mercedes",
+                "yearFrom": 2010,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "merzario",
+        "name": "Merzario",
+        "fullName": "Team Merzario",
+        "countryId": "italy"
+    },
+    {
+        "id": "meskowski",
+        "name": "Meskowski",
+        "fullName": "Meskowski",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "midland",
+        "name": "Midland",
+        "fullName": "Midland F1 Racing",
+        "countryId": "russia",
+        "previousNextConstructors": [
+            {
+                "constructorId": "jordan",
+                "yearFrom": 1991,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "midland",
+                "yearFrom": 2006,
+                "yearTo": 2006
+            },
+            {
+                "constructorId": "spyker",
+                "yearFrom": 2007,
+                "yearTo": 2007
+            },
+            {
+                "constructorId": "force-india",
+                "yearFrom": 2008,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "racing-point",
+                "yearFrom": 2019,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "aston-martin",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "minardi",
+        "name": "Minardi",
+        "fullName": "Minardi F1 Team",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "minardi",
+                "yearFrom": 1985,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "toro-rosso",
+                "yearFrom": 2006,
+                "yearTo": 2019
+            },
+            {
+                "constructorId": "alphatauri",
+                "yearFrom": 2020,
+                "yearTo": 2023
+            },
+            {
+                "constructorId": "rb",
+                "yearFrom": 2024,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "modena",
+        "name": "Modena",
+        "fullName": "Modena Team",
+        "countryId": "italy"
+    },
+    {
+        "id": "moore",
+        "name": "Moore",
+        "fullName": "Moore",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "nacke",
+        "name": "Nacke",
+        "fullName": "Nacke",
+        "countryId": "germany"
+    },
+    {
+        "id": "nichels",
+        "name": "Nichels",
+        "fullName": "Nichels",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "olson",
+        "name": "Olson",
+        "fullName": "Olson",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "onyx",
+        "name": "Onyx",
+        "fullName": "Onyx Grand Prix",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "osca",
+        "name": "O.S.C.A.",
+        "fullName": "Officine Specializzate Costruzione Automobili",
+        "countryId": "italy"
+    },
+    {
+        "id": "osella",
+        "name": "Osella",
+        "fullName": "Osella Squadra Corse",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "osella",
+                "yearFrom": 1980,
+                "yearTo": 1990
+            },
+            {
+                "constructorId": "fondmetal",
+                "yearFrom": 1991,
+                "yearTo": 1992
+            }
+        ]
+    },
+    {
+        "id": "pacific",
+        "name": "Pacific",
+        "fullName": "Pacific Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "pankratz",
+        "name": "Pankratz",
+        "fullName": "Pankratz",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "parnelli",
+        "name": "Parnelli",
+        "fullName": "Vel's Parnelli Jones Racing",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "pawl",
+        "name": "Pawl",
+        "fullName": "Pawl",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "penske",
+        "name": "Penske",
+        "fullName": "Team Penske",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "phillips",
+        "name": "Phillips",
+        "fullName": "Phillips",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "politoys",
+        "name": "Politoys",
+        "fullName": "Politoys",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "politoys",
+                "yearFrom": 1972,
+                "yearTo": 1972
+            },
+            {
+                "constructorId": "iso-marlboro",
+                "yearFrom": 1973,
+                "yearTo": 1974
+            },
+            {
+                "constructorId": "frank-williams-racing-cars",
+                "yearFrom": 1975,
+                "yearTo": 1975
+            },
+            {
+                "constructorId": "wolf-williams",
+                "yearFrom": 1976,
+                "yearTo": 1976
+            },
+            {
+                "constructorId": "wolf",
+                "yearFrom": 1977,
+                "yearTo": 1979
+            }
+        ]
+    },
+    {
+        "id": "porsche",
+        "name": "Porsche",
+        "fullName": "Porsche",
+        "countryId": "germany"
+    },
+    {
+        "id": "prost",
+        "name": "Prost",
+        "fullName": "Prost Grand Prix",
+        "countryId": "france",
+        "previousNextConstructors": [
+            {
+                "constructorId": "ligier",
+                "yearFrom": 1976,
+                "yearTo": 1996
+            },
+            {
+                "constructorId": "prost",
+                "yearFrom": 1997,
+                "yearTo": 2001
+            }
+        ]
+    },
+    {
+        "id": "protos",
+        "name": "Protos",
+        "fullName": "Protos",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "racing-point",
+        "name": "Racing Point",
+        "fullName": "Racing Point F1 Team",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "jordan",
+                "yearFrom": 1991,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "midland",
+                "yearFrom": 2006,
+                "yearTo": 2006
+            },
+            {
+                "constructorId": "spyker",
+                "yearFrom": 2007,
+                "yearTo": 2007
+            },
+            {
+                "constructorId": "force-india",
+                "yearFrom": 2008,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "racing-point",
+                "yearFrom": 2019,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "aston-martin",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "rae",
+        "name": "Rae",
+        "fullName": "Rae",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "ram",
+        "name": "RAM",
+        "fullName": "RAM Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "rb",
+        "name": "RB",
+        "fullName": "Racing Bulls",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "minardi",
+                "yearFrom": 1985,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "toro-rosso",
+                "yearFrom": 2006,
+                "yearTo": 2019
+            },
+            {
+                "constructorId": "alphatauri",
+                "yearFrom": 2020,
+                "yearTo": 2023
+            },
+            {
+                "constructorId": "rb",
+                "yearFrom": 2024,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "rebaque",
+        "name": "Rebaque",
+        "fullName": "Team Rebaque",
+        "countryId": "mexico"
+    },
+    {
+        "id": "red-bull",
+        "name": "Red Bull",
+        "fullName": "Red Bull Racing",
+        "countryId": "austria",
+        "previousNextConstructors": [
+            {
+                "constructorId": "stewart",
+                "yearFrom": 1997,
+                "yearTo": 1999
+            },
+            {
+                "constructorId": "jaguar",
+                "yearFrom": 2000,
+                "yearTo": 2004
+            },
+            {
+                "constructorId": "red-bull",
+                "yearFrom": 2005,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "renault",
+        "name": "Renault",
+        "fullName": "Renault Sport Formula One Team",
+        "countryId": "france",
+        "previousNextConstructors": [
+            {
+                "constructorId": "toleman",
+                "yearFrom": 1981,
+                "yearTo": 1985
+            },
+            {
+                "constructorId": "benetton",
+                "yearFrom": 1986,
+                "yearTo": 2001
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2002,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "lotus-f1",
+                "yearFrom": 2012,
+                "yearTo": 2015
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2016,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "alpine",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "rial",
+        "name": "Rial",
+        "fullName": "Rial Racing",
+        "countryId": "germany"
+    },
+    {
+        "id": "sauber",
+        "name": "Sauber",
+        "fullName": "Sauber F1 Team",
+        "countryId": "switzerland",
+        "previousNextConstructors": [
+            {
+                "constructorId": "sauber",
+                "yearFrom": 1993,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "bmw-sauber",
+                "yearFrom": 2006,
+                "yearTo": 2010
+            },
+            {
+                "constructorId": "sauber",
+                "yearFrom": 2011,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "alfa-romeo",
+                "yearFrom": 2019,
+                "yearTo": 2023
+            },
+            {
+                "constructorId": "kick-sauber",
+                "yearFrom": 2024,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "scarab",
+        "name": "Scarab",
+        "fullName": "Scarab",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "schroeder",
+        "name": "Schroeder",
+        "fullName": "Schroeder",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "scirocco",
+        "name": "Scirocco",
+        "fullName": "Scirocco-Powell",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "shadow",
+        "name": "Shadow",
+        "fullName": "Shadow Racing Cars",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "shannon",
+        "name": "Shannon",
+        "fullName": "Shannon Racing Cars",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "sherman",
+        "name": "Sherman",
+        "fullName": "Sherman",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "simca-gordini",
+        "name": "Simca-Gordini",
+        "fullName": "Simca-Gordini",
+        "countryId": "france"
+    },
+    {
+        "id": "simtek",
+        "name": "Simtek",
+        "fullName": "Simtek",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "snowberger",
+        "name": "Snowberger",
+        "fullName": "Snowberger",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "spirit",
+        "name": "Spirit",
+        "fullName": "Spirit Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "spyker",
+        "name": "Spyker",
+        "fullName": "Spyker F1 Team",
+        "countryId": "netherlands",
+        "previousNextConstructors": [
+            {
+                "constructorId": "jordan",
+                "yearFrom": 1991,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "midland",
+                "yearFrom": 2006,
+                "yearTo": 2006
+            },
+            {
+                "constructorId": "spyker",
+                "yearFrom": 2007,
+                "yearTo": 2007
+            },
+            {
+                "constructorId": "force-india",
+                "yearFrom": 2008,
+                "yearTo": 2018
+            },
+            {
+                "constructorId": "racing-point",
+                "yearFrom": 2019,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "aston-martin",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "stebro",
+        "name": "Stebro",
+        "fullName": "Stebro",
+        "countryId": "canada"
+    },
+    {
+        "id": "stevens",
+        "name": "Stevens",
+        "fullName": "Stevens",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "stewart",
+        "name": "Stewart",
+        "fullName": "Stewart Grand Prix",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "stewart",
+                "yearFrom": 1997,
+                "yearTo": 1999
+            },
+            {
+                "constructorId": "jaguar",
+                "yearFrom": 2000,
+                "yearTo": 2004
+            },
+            {
+                "constructorId": "red-bull",
+                "yearFrom": 2005,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "super-aguri",
+        "name": "Super Aguri",
+        "fullName": "Super Aguri F1 Team",
+        "countryId": "japan"
+    },
+    {
+        "id": "surtees",
+        "name": "Surtees",
+        "fullName": "Surtees Racing Organisation",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "sutton",
+        "name": "Sutton",
+        "fullName": "Sutton",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "talbot-lago",
+        "name": "Talbot-Lago",
+        "fullName": "Talbot-Lago",
+        "countryId": "france"
+    },
+    {
+        "id": "tec-mec",
+        "name": "Tec-Mec",
+        "fullName": "Studio Tecnica Meccanica",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "tecno",
+        "name": "Tecno",
+        "fullName": "Tecno Racing Team",
+        "countryId": "italy"
+    },
+    {
+        "id": "theodore",
+        "name": "Theodore",
+        "fullName": "Theodore Racing",
+        "countryId": "hong-kong"
+    },
+    {
+        "id": "token",
+        "name": "Token",
+        "fullName": "Token Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "toleman",
+        "name": "Toleman",
+        "fullName": "Toleman Motorsport",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "toleman",
+                "yearFrom": 1981,
+                "yearTo": 1985
+            },
+            {
+                "constructorId": "benetton",
+                "yearFrom": 1986,
+                "yearTo": 2001
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2002,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "lotus-f1",
+                "yearFrom": 2012,
+                "yearTo": 2015
+            },
+            {
+                "constructorId": "renault",
+                "yearFrom": 2016,
+                "yearTo": 2020
+            },
+            {
+                "constructorId": "alpine",
+                "yearFrom": 2021,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "toro-rosso",
+        "name": "Toro Rosso",
+        "fullName": "Scuderia Toro Rosso",
+        "countryId": "italy",
+        "previousNextConstructors": [
+            {
+                "constructorId": "minardi",
+                "yearFrom": 1985,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "toro-rosso",
+                "yearFrom": 2006,
+                "yearTo": 2019
+            },
+            {
+                "constructorId": "alphatauri",
+                "yearFrom": 2020,
+                "yearTo": 2023
+            },
+            {
+                "constructorId": "rb",
+                "yearFrom": 2024,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "toyota",
+        "name": "Toyota",
+        "fullName": "Toyota Racing",
+        "countryId": "japan"
+    },
+    {
+        "id": "trevis",
+        "name": "Trevis",
+        "fullName": "Trevis",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "trojan",
+        "name": "Trojan",
+        "fullName": "Trojan-Tauranac Racing",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "turner",
+        "name": "Turner",
+        "fullName": "Turner",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "tyrrell",
+        "name": "Tyrrell",
+        "fullName": "Tyrrell Racing",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "tyrrell",
+                "yearFrom": 1970,
+                "yearTo": 1998
+            },
+            {
+                "constructorId": "bar",
+                "yearFrom": 1999,
+                "yearTo": 2005
+            },
+            {
+                "constructorId": "honda",
+                "yearFrom": 2006,
+                "yearTo": 2008
+            },
+            {
+                "constructorId": "brawn",
+                "yearFrom": 2009,
+                "yearTo": 2009
+            },
+            {
+                "constructorId": "mercedes",
+                "yearFrom": 2010,
+                "yearTo": null
+            }
+        ]
+    },
+    {
+        "id": "vanwall",
+        "name": "Vanwall",
+        "fullName": "Vanwall",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "venturi",
+        "name": "Venturi",
+        "fullName": "Venturi Automobiles",
+        "countryId": "france"
+    },
+    {
+        "id": "veritas",
+        "name": "Veritas",
+        "fullName": "Veritas",
+        "countryId": "germany"
+    },
+    {
+        "id": "virgin",
+        "name": "Virgin",
+        "fullName": "Virgin Racing",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "virgin",
+                "yearFrom": 2010,
+                "yearTo": 2011
+            },
+            {
+                "constructorId": "marussia",
+                "yearFrom": 2012,
+                "yearTo": 2015
+            },
+            {
+                "constructorId": "manor",
+                "yearFrom": 2016,
+                "yearTo": 2016
+            }
+        ]
+    },
+    {
+        "id": "watson",
+        "name": "Watson",
+        "fullName": "Watson",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "wetteroth",
+        "name": "Wetteroth",
+        "fullName": "Wetteroth",
+        "countryId": "united-states-of-america"
+    },
+    {
+        "id": "williams",
+        "name": "Williams",
+        "fullName": "Williams Grand Prix Engineering",
+        "countryId": "united-kingdom"
+    },
+    {
+        "id": "wolf-williams",
+        "name": "Wolf-Williams",
+        "fullName": "Wolf-Williams Racing",
+        "countryId": "united-kingdom",
+        "previousNextConstructors": [
+            {
+                "constructorId": "politoys",
+                "yearFrom": 1972,
+                "yearTo": 1972
+            },
+            {
+                "constructorId": "iso-marlboro",
+                "yearFrom": 1973,
+                "yearTo": 1974
+            },
+            {
+                "constructorId": "frank-williams-racing-cars",
+                "yearFrom": 1975,
+                "yearTo": 1975
+            },
+            {
+                "constructorId": "wolf-williams",
+                "yearFrom": 1976,
+                "yearTo": 1976
+            },
+            {
+                "constructorId": "wolf",
+                "yearFrom": 1977,
+                "yearTo": 1979
+            }
+        ]
+    },
+    {
+        "id": "wolf",
+        "name": "Wolf",
+        "fullName": "Walter Wolf Racing",
+        "countryId": "canada",
+        "previousNextConstructors": [
+            {
+                "constructorId": "politoys",
+                "yearFrom": 1972,
+                "yearTo": 1972
+            },
+            {
+                "constructorId": "iso-marlboro",
+                "yearFrom": 1973,
+                "yearTo": 1974
+            },
+            {
+                "constructorId": "frank-williams-racing-cars",
+                "yearFrom": 1975,
+                "yearTo": 1975
+            },
+            {
+                "constructorId": "wolf-williams",
+                "yearFrom": 1976,
+                "yearTo": 1976
+            },
+            {
+                "constructorId": "wolf",
+                "yearFrom": 1977,
+                "yearTo": 1979
+            }
+        ]
+    },
+    {
+        "id": "zakspeed",
+        "name": "Zakspeed",
+        "fullName": "Zakspeed Racing",
+        "countryId": "germany"
+    }
+]
