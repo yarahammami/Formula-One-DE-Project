@@ -3,7 +3,6 @@ import json
 
 response = urlopen('https://api.openf1.org/v1/drivers?')
 data = json.loads(response.read().decode('utf-8'))
-print(data)
 
 # Create the JSON file
 try:
