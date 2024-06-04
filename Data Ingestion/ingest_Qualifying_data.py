@@ -10,6 +10,6 @@ try:
     with open('RAW/qualifying_data.json', mode='w') as json_file:
         json.dump(data, json_file, indent=4)
     
-    print("Data has been successfully written to constructors_data.json")
+    print("Data has been successfully written to qualifying_data.json")
 except:
     print(f"Failed to fetch the files. Status code: {response.status_code}")

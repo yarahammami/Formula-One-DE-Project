@@ -74,8 +74,8 @@ def create_table(connection):
                 date VARCHAR(50),
                 race VARCHAR(100),
                 circuit VARCHAR(100),
-                winner VARCHAR(100),
-                pole_position VARCHAR(100)
+                winner VARCHAR(100) NOT NULL,
+                pole_position VARCHAR(100) NOT NULL
             )
         """)
         connection.commit()
